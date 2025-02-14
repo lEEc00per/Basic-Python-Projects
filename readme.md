@@ -14,14 +14,6 @@ Welcome to my Python Projects Repository! This repo is a collection of three beg
 
 ---
 
-## 🔗 Quick Links to Project Code
-
-- **📝 To-Do List**: [View Code](https://github.com/lEEc00per/python-projects/blob/main/todolist/todolist.py)
-- **🏦 Bank Management System**: [View Code](https://github.com/lEEc00per/python-projects/blob/main/bank_management/bank.py)
-- **🎥 YouTube Redirect Button**: [View Code](https://github.com/lEEc00per/python-projects/blob/main/youtube_redirect/redirect.py)
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
