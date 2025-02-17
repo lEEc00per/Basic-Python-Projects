@@ -20,6 +20,7 @@ Welcome to my Python Projects Repository! This repo is a collection of four begi
 ### Prerequisites
 - Python 3.8 or higher
 - `tkinter` (for the YouTube Redirect Button project)
+- `random` (for the Ice-Cream Picker Project)
 - `pip` (to install dependencies)
 
 ### Installation
